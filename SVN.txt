@@ -415,7 +415,7 @@ V.1.0 Alpha 7
 ======== Client Side ===========
 - Adding Shop Trigger
 	+ Hissy Potion
-#Bug Issue 2 By $Aan,Gerry,Kylle
+#Bug Issue 6 By $Aan,Gerry,Kylle
 //4-7-2013 10:44 #c3rb3ru5
 ======== Client Side ===========
 - Remove Old Lib
@@ -428,13 +428,13 @@ V.1.0 Alpha 7
 	+ Vc 2005
 	+ Vc 2008
 V.1.0 Alpha 8
-#Bug Issue 2 By $Rumia
+#Bug Issue 7 By $Rumia
 //4-7-2013 10:44 #c3rb3ru5
 ======== Client Side ===========
 - Shop Fixed
 - Deleting .Bin Project
 V.1.0 Alpha 9
-#Bug Issue 3 By $Nathan
+#Bug Issue 8 By $Nathan
 //4-8-2013 7:29 #c3rb3ru5
 ======== Server Side ===========
 - Pig Shop +7 Delete
@@ -447,7 +447,7 @@ V.1.0 Alpha 9
 ======== Client Side ===========
 - Protection Adding
 V.1.0 Alpha 10
-#Bug Issue 4 By $AllPlayer
+#Bug Issue 9 By $AllPlayer
 //4-10-2013 9:00 #c3rb3ru5
 ======== Server Side ===========
 - Adding New Drops
@@ -455,7 +455,7 @@ V.1.0 Alpha 10
 #merge project $Frozen
 - Adding New Normal Launcher
 	+ Reconfig Web Launcher
-#Bug Issue 5 By $Alberto
+#Bug Issue 10 By $Alberto
 //4-10-2013 9:36 #c3rb3ru5
 ======== Client Side ===========
 - Fixed Shop
@@ -470,3 +470,54 @@ V.1.0 Alpha 10
 ======== Client Side ===========
 - New Council Release
 	+ Aldeon Kuradon Council
+V.1.0 Alpha 11
+//4-19-2013 9:00 #c3rb3ru5
+======== Server Side ===========
+- New Weapon Release
+	+ Transport Killer
+======== Client Side ===========
+- New Weapon Release
+	+ Transport Killer
+V.1.0 Alpha 11 Build 1
+//4-23-2013 9:00 #c3rb3ru5
+======== Client Side ===========
+- Anti Critical Error
+- Block Down Client Load
+	+ Add More Looping Interface
+//4-23-2013 10:49 #c3rb3ru5
+======== Client Side ===========
+- Add New Staff
+	- Dandy
+	- Andi
+	+ Nico
+	+ BeahMe
+//4-23-2013 12:25 #c3rb3ru5
+======== Client Side ===========
+- Add New Staff
+	+ Nathan
+#Bug Issue 11 By $Alberto
+//4-23-2013 16:11 #c3rb3ru5
+======== Client Side ===========
+- Fixed Shield Bug
+V.1.0 Alpha 11 Build 2
+//4-26-2013 9:00 #c3rb3ru5
+#Bug Issue 12 By $RocketPunch,DeadStriker
+======== Client Side ===========
+- Recall Animus Fixed
+//4-26-2013 13:00 #c3rb3ru5
+======== Client Side ===========
+- Adding Win 8 Support
+	+ VC++ 2010(x64)
+	+ VC++ 2010(x86)
+V.1.0 Alpha 12
+//4-26-2013 15:13 #c3rb3ru5,Flex
+======== Server Side ===========
+- New Elemental Release
+	+ Black Amulet
+	+ White Ring
+- Drop Remove
+	- MS Item
+======== Client Side ===========
+- New Elemental Release
+	+ Black Amulet
+	+ White Ring
